@@ -16,16 +16,11 @@ cs student · indie dev with **godot** & **react**
     langs: ["es", "en", "pt", "jp"],
     timezone: "America/Argentina/Buenos_Aires"
   },
-  goals: {
-    🎓: "finish my degree",
-    🔐: "promote the use of free & open source software to improve user privacy and experiences",
-    🌱: "keep learning, always"
-  },
   most_used: [
     "python",
     "javaScript",
-    "gdscript",
-    "c#"
+    "next.js",
+    "gdscript"
   ]
 }
 ```
