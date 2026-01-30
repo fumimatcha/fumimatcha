@@ -28,7 +28,7 @@ cs student · indie dev with **godot**
   <h2>tools & tech i like</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,linux,arch,cs,py,js,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,arch,cs,py,js,nodejs" />
   </a>
   <hr>
   
