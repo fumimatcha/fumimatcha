@@ -1,8 +1,6 @@
 <div align="left">
 
 # fumi  
-
-noob dev, i like puter :3  
 cs student · indie dev with **godot** 
 
 </div>
