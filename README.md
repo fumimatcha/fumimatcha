@@ -1,7 +1,7 @@
 <div align="left">
 
 # fumi  
-cs student · indie dev with **godot** 
+noob dev
 
 </div>
 
