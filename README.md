@@ -32,7 +32,6 @@ cs student · indie dev with **godot**
   
   
 ![Status](https://img.shields.io/badge/currently-online-brightgreen)
-![Playing](https://img.shields.io/badge/playing-probably_league-blue)
 ![Listening](https://img.shields.io/badge/listening-AKFG-green?logo=spotify)
 
 
